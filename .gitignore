@@ -1,0 +1,17 @@
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+/system/core
+/system/database
+/system/
+/*.editorconfig
+/uploads/
+/.vscode/
+/respaldo/
+/dump_database/
+/nbproject
+/.idea/
+/application/config/
