@@ -17,8 +17,6 @@
 
     <!-- End Bread crumb and right sidebar toggle -->
 
-
-
     <!-- Start Page Content -->
 
     <div class="row">
